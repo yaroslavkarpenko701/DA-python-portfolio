@@ -19,9 +19,10 @@ The main goal is to clean and analyze the data and identify valuable insights in
 4.Reporting
   * General conclusions and results from a business logic point of view.
 
-### This directory contains Jupyter Notebooks includes the completion of all project stages:
-https://github.com/yaroslavkarpenko701/DA-python-portfolio/blob/main/Exploratory_data_analysis_for_online_store.ipynb
-
 ### [Data](./data/)
 
 **Description**: All CSV files used for this work.
+
+### This directory contains Jupyter Notebooks includes the completion of all project stages:
+https://github.com/yaroslavkarpenko701/DA-python-portfolio/blob/main/Exploratory_data_analysis_for_online_store.ipynb
+
