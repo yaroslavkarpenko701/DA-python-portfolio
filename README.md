@@ -22,6 +22,6 @@ The main goal is to clean and analyze the data and identify valuable insights in
 ### This directory contains Jupyter Notebooks includes the completion of all project stages:
 https://github.com/yaroslavkarpenko701/DA-python-portfolio/blob/main/Exploratory_data_analysis_for_online_store.ipynb
 
-### 1. [Data](./data/)
+### [Data](./data/)
 
 **Description**: All CSV files used for this work.
