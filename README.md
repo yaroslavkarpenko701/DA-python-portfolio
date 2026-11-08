@@ -16,6 +16,7 @@ The main goal is to clean and analyze the data and identify valuable insights in
   * An analysis was conducted to determine whether profit depends on the time required to ship a product. The necessary aggregations and visualizations were created for this purpose.
   * Sales trends (over time) were analyzed using visualizations by product category, country, and region, and key trends were identified.
   * An analysis of product sales by day of the week was conducted. Products were examined to determine whether they are seasonal.
+
 4.Reporting
   * General conclusions and results from a business logic point of view.
 
