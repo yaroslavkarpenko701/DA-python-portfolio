@@ -17,7 +17,7 @@ The main goal is to clean and analyze the data and identify valuable insights in
   * Sales trends (over time) were analyzed using visualizations by product category, country, and region, and key trends were identified.
   * An analysis of product sales by day of the week was conducted. Products were examined to determine whether they are seasonal.
 
-4.Reporting
+ 4. Reporting
   * General conclusions and results from a business logic point of view.
 
 ### [Data](./data/)
